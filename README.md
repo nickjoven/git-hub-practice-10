@@ -1,1 +1,1 @@
-# git-hub-practice-10
+# github-practice-10
